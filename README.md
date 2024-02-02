@@ -25,4 +25,4 @@
 ### What Drives Me 🔥
 I find true joy in the entire lifecycle of software projects - from ideation to implementation. Witnessing ideas come to life. I'm eager to contribute my unique perspective and skills to the dynamic world of software engineering!
 
-Let's connect and build something amazing together! 🚀
+Let's connect! 🚀

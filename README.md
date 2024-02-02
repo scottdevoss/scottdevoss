@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-🏡 **Home:** Proud husband and dog dad, creating a happy life.
+🏡 **Home:** Proud husband and dog dad.
 
 ⛷️ **Hobbies:** Skier, soccer player and lover of all things sports.
 

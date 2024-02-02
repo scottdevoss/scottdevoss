@@ -1,5 +1,18 @@
-### Hi there 👋
+##Hello there! 👋
 
-I'm a husband, dog dad, skier, and sports enthusiast. Professionally, I bring a diverse background in sales across martech, government compliance software, and facility services. In 2023, I embraced a career shift into software engineering and am on the verge of graduating from the intensive Turing School of Software and Design.
+🏡 Home: Proud husband and dog dad, creating a happy life.
+⛷️ Hobbies: Skier, soccer player and lover of all things sports.
+💼 Professional Background: Diverse experience as a former pro soccer player and in sales across martech, government compliance software, and facility services.
+🚀 Career Transition: In 2023, I decided to embark on a thrilling career shift into software engineering.
+🎓 Education: Currently, I'm on the cusp of graduating from the Turing School of Software and Design.
+###Tech Skills 🛠️
 
-With hands-on experience in Ruby, Ruby on Rails, APIs, SQL, Active Record, and more, I have honed my skills in designing, developing, testing, deploying, and maintaining applications. I find joy in project creation and witnessing ideas come to life. Excited to bring my unique perspective and skills into the software engineering industry!
+Languages: Ruby
+Frameworks: Ruby on Rails
+APIs: Consuming and creating
+Databases: SQL, Active Record
+Full Stack: Design, development, testing, deployment, and maintenance
+###What Drives Me 🔥
+I find true joy in the entire lifecycle of software projects - from ideation to implementation. Witnessing ideas come to life. I'm eager to contribute my unique perspective and skills to the dynamic world of software engineering!
+
+Let's connect and build something amazing together! 🚀

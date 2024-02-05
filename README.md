@@ -1,5 +1,3 @@
-## Hello there! 👋
-
 🏡 **Home:** Proud husband and dog dad.
 
 ⛷️ **Hobbies:** Skier, soccer player and lover of all things sports.
@@ -22,7 +20,6 @@
 
 **Full Stack:** Design, development, testing, deployment, and maintenance
 
-### What Drives Me 🔥
-I find true joy in the entire lifecycle of software projects - from ideation to implementation. Witnessing ideas come to life. I'm eager to contribute my unique perspective and skills to the dynamic world of software engineering!
+I'm eager to contribute my unique perspective and skills to the dynamic world of software engineering!
 
 Let's connect! 🚀

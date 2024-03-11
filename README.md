@@ -14,7 +14,7 @@
 
 **Frameworks:** Ruby on Rails
 
-**APIs:** Consuming and creating
+**APIs:** Consuming, Creating, Postman, Testing
 
 **Databases:** SQL, Active Record
 

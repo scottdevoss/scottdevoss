@@ -15,7 +15,7 @@ In 2023, I took on a new challenge at the Turing School of Software & Design’s
 
 **APIs:** Consuming, Creating, Postman, Testing
 
-**Databases:** SQL, Active Record
+**Databases:** PostgreSQL, SQL, Active Record
 
 **Full Stack:** Design, development, testing, deployment, and maintenance
 

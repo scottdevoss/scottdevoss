@@ -7,10 +7,6 @@
 In 2023, I took on a new challenge at the Turing School of Software & Design’s Backend Engineering program, an 8 month full-time intensive program to further my knowledge and skills as a software engineer. This program focuses on web development using Ruby on Rails, RESTful APIs, and SQL/ActiveRecord database queries with heavy emphasis on group project learning, Git workflow, and Test-Driven Development (TDD). I am prepared to leverage my sales and leadership experience with my technical skills in a software/sales engineer role.
 
 
-🚀 **Career Transition:** In 2023, I decided to embark on a thrilling career shift into software engineering.
-
-🎓 **Education:** Currently, I'm on the cusp of graduating from the Turing School of Software and Design.
-
 ### Tech Skills 🛠️
 
 **Languages:** Ruby
